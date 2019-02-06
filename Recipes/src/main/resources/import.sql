@@ -1,0 +1,4 @@
+INSERT INTO RECIPE (id, recipe_name, recipe_owner, description) VALUES (1, 'Toast', 'Gordon Ramsey', 'Put bread in the f***ing toaster')
+INSERT INTO RECIPE (id, recipe_name, recipe_owner, description) VALUES (2, 'Scrambed Eggs', 'Rana', 'Beat egg and fry')
+INSERT INTO RECIPE (id, recipe_name, recipe_owner, description) VALUES (3, 'Tea', 'Jamie Oliver', 'Put teabag in cup, boil water, add boiled water to teabag, leave to soak, ad milk(not too much) and stir')
+INSERT INTO RECIPE (id, recipe_name, recipe_owner, description) VALUES (4, 'Pasta', 'Marco Pierre White', 'Boil water in saucepan, add salt, add uncooked pasta, cook until al dente, put into collander and let cool')
